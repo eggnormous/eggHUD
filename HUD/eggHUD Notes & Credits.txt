@@ -1,0 +1,28 @@
+eggHUD is my edited, personalised version of yaHUD's CMYK and since several people liked my version  I decided to upload it, rather than having to send everyone the HUD again when I make updates.
+
+The base of eggHUD was yaHUD CMYK and as wahyay stopped updating it due to using copyrighted fonts whilst accepting donations he has discontinued yaHUD for an unknown length of time. (edit: yaHUD is back now but CMYK is not currently continued.)
+
+Credit goes to wahyay for making the original HUD and big shoutout to doodles for his help.
+
+If you find any bugs please let me know or feel free to ask any questions about any changes. I will be updating the HUD on github as updates come out or I change something, but I will not be making differnt versions of the HUD as this is my personal HUD, it is what it is!
+
+If you wish to change things like colours, chat box positioning, adding HP cross etc, please check out my amigo Doodles' guide to editing HUDs here:
+http://doodlesstuff.com/?tutorial=tf2hud
+
+This HUD was tested and edited at 1080x 1920 @ DX8.
+
+eggnormous
+www.youtube.com/andycarter174
+http://steamcommunity.com/groups/eggHUD
+xxxx github link xxxx
+
+
+
+
+EXTRAS Folder
+------------------
+Longer medic charge meter
+-rename "HudMedicCharge - LONG VERSION.res" to "HudMedicCharge.res" and replace into \HUD\resource\ui
+
+Red colour for low HP + low ammo instead of magenta
+-rename "HudAnimations_tf - Cinderella.txt" to "HudAnimations_tf.txt" and replace into \HUD\scripts
